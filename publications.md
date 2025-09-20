@@ -1,6 +1,6 @@
 ---
 title: "Research and Publications"
-permalink: /publications2/
+permalink: /publications/
 ---
 
 ## Publications
