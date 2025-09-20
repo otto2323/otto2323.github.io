@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hi, Thank you for your visit!"
+excerpt:"About me"
 author_profile: true
 redirect_from: 
   - /about/
