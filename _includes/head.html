@@ -1,21 +1,29 @@
-{% include base_path %}
+{% comment %}
+  Head partial for academicpages user site
+  Fixed for custom domain & user site layout
+{% endcomment %}
 
 <meta charset="utf-8">
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<!-- Atom feed -->
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ site.baseurl }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
-<!-- http://t.co/dKP3o1e -->
+<!-- Mobile friendliness -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Remove 'no-js' class for JS support -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<!-- Main CSS -->
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+<!-- Optional: any JS you need -->
+<script src="{{ site.baseurl }}/assets/js/main.js"></script>
 
 <meta http-equiv="cleartype" content="on">
