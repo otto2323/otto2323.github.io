@@ -15,7 +15,7 @@ name                     : &name "Osman Suntay"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 baseurl: ""  # "/osmansuntay.github.io" # Important for project site
 url: "https://otto2323.github.io" # Your username's GitHub Pages root
-repository               : "academicpages/academicpages.github.io"
+repository               : "otto2323/otto2323.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
