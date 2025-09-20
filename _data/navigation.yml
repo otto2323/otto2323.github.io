@@ -11,7 +11,7 @@
 main:
   - title: "CV"
     url: /files/Suntay_CV.pdf
-  - title: "Publications"
+  - title: "Research and Publications"
     url: /publications/
   # - title: "Teaching"
   #  url: /teaching/    
