@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Working papers
 
-- **Suntay, Osman.** [Religious Elites, Politicization, and Intergroup Attitudes among Muslim Immigrants in the West](https://osf.io/preprints/osf/xp25n_v1), *Revised & Resubmitted
+- **Suntay, Osman.** [Religious Elites, Politicization, and Intergroup Attitudes among Muslim Immigrants in the West](https://osf.io/preprints/osf/xp25n_v1), *Revised & Resubmitted*
 
 - Ruhe, Constantin; **Suntay, Osman**; Castelli, Leonard; Rossteutscher, Sigrid; and Traunmüller, Richard. [Extremist Violence, Discrimination, and Religious Identification](https://osf.io/preprints/osf/b6yzv_v2), *Under Review*
 
