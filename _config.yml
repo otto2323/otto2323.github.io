@@ -22,11 +22,11 @@ repository               : "otto2323/otto2323.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile5.jpg"
+  avatar           : "profile7.jpg"
   name             : "Osman Suntay"
   bio              : "Doctoral researcher, Goethe University Frankfurt"
   email            : "suntay@soz.uni-frankfurt.de" 
-  employer         : "Goethe University Frankfurt"
+  #employer         : "Goethe University Frankfurt"
  
 
   # Academic websites
