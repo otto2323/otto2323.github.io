@@ -5,7 +5,9 @@
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-   <a href="https://bsky.app/profile/osmansuntay.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+   {% if site.bluesky %}
+   <a href="https://bsky.app/profile/{{ site.bluesky }}.bsky.social">Bluesky</a>
+   {% endif %}
 
 
 
