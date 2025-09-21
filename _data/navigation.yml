@@ -10,7 +10,7 @@
 
 main:
   - title: "CV"
-    url: /files/Suntay_CV(1).pdf
+    url: /files/Suntay_CV_1.pdf
   - title: "Research and Publications"
     url: /publications/
   # - title: "Teaching"
