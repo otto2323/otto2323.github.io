@@ -6,7 +6,7 @@
   {% endif %}
 
   {% if site.bluesky %}
-   <a href="https://bsky.app/profile/{{ site.bluesky | append: '.bsky.social' }}" class="btn btn--bluesky" title="Share on Bluesky">
+   <a href="https://{{ site.bluesky }}.bsky.social" class="btn btn--bluesky" title="Share on Bluesky" target="_blank" rel="noopener">
    <i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i><span>Bluesky</span>
    </a>
   {% endif %}
