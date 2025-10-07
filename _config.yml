@@ -14,7 +14,9 @@ title_separator          : "-"
 name                     : &name "Osman Suntay"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 baseurl: ""  # "/osmansuntay.github.io" # Important for project site
-url: "https://otto2323.github.io" # Your username's GitHub Pages root
+url: "https://osmansuntay.com"  # Changed to your custom domain
+enforce_ssl: "osmansuntay.com"  # Added this line
+#url: "https://otto2323.github.io" # Your username's GitHub Pages root
 repository               : "otto2323/otto2323.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
