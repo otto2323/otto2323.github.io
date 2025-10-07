@@ -19,4 +19,4 @@ A list of my publications, working papers, and current projects is available und
 
 ---
 
-<p style="font-size: 0.70em; color: #666;"><em>I benefited from <a href="https://github.com/academicpages/academicpages.github.io">Academic Pages</a>, a Jekyll template hosted on GitHub Pages, to build this site.</em></p>
+<p style="font-size: 0.70em; color: #666;"><em>  To build this site, I benefited from <a href="https://github.com/academicpages/academicpages.github.io">Academic Pages</a> Jekyll template on GitHub Pages. </em></p>
