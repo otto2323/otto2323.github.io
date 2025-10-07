@@ -219,6 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: true  # ← Add this line
   # _teaching
   - scope:
       path: ""
