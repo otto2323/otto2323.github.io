@@ -36,3 +36,7 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
+---
+
+*I benefited from [Academic Pages](https://github.com/academicpages/academicpages.github.io), a Jekyll template hosted on GitHub Pages,to build this site.*
