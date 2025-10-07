@@ -1,6 +1,9 @@
 ---
+layout: archive
 title: "Research and Publications"
 permalink: /publications/
+author_profile: true
+sitemap: true
 ---
 
 ## Publications
