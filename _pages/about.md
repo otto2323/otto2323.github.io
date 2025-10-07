@@ -16,3 +16,7 @@ My research seeks to understand the mechanisms that improve intergroup relations
 I use large-scale surveys and experimental and quasi-experimental approaches to examine how government policies, religious elites, education, and extremist violence influence identity, intergroup relations, and political participation among Muslim immigrants and majority  communities. 
 
 A list of my publications, working papers, and current projects is available under [Research and Publications](/publications/) section.
+
+---
+
+*I benefited from [Academic Pages](https://github.com/academicpages/academicpages.github.io), a Jekyll template hosted on GitHub Pages,to build this site.*
