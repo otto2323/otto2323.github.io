@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for your visit! I am a doctoral student and researcher  at the Chair of Empirical Political Research in the Department of Political Science at Goethe University Frankfurt. With an interdisciplinary approach drawing on political science, social psychology, and migration studies, I study comparative political behavior in majority–minority contexts in the West, focusing on how political actors and political violence shape intergroup attitudes.
+Thank you for your visit! I am a doctoral student and researcher  at the Chair of Empirical Political Research in the [Department of Political Science at Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/109358135/Osman_Suntay__M_A?locale=en). With an interdisciplinary approach drawing on political science, social psychology, and migration studies, I study comparative political behavior in majority–minority contexts in the West, focusing on how political actors and political violence shape intergroup attitudes.
 
 My research seeks to understand the mechanisms that improve intergroup relations, particularly through social identity. Rather than viewing identity only as a sense of belonging, I examine how individuals define and make meaning of their identity, and how these processes are influenced by political actors (e.g governments, religious and political elites) and political developments.
 
