@@ -13,11 +13,13 @@ sitemap: true
 
 ## Working papers
 
-- **Suntay, Osman.** [Religious Elites, Politicization, and Intergroup Attitudes among Muslim Immigrants in the West](https://osf.io/preprints/osf/xp25n_v1), *Revised & Resubmitted*
+- **Suntay, Osman.** [Religious Elites, Politicization, and Intergroup Attitudes among Muslim Immigrants in the West](https://osf.io/preprints/osf/xp25n_v1), *Conditional Acceptance, Journal of Politics*
+  
+- **Suntay, Osman** and Ruhe, Constantin. [How Education Moderates the Impact of Discrimination on Religious Identification: Evidence from Turkish Immigrants in Germany](https://osf.io/preprints/osf/dwub3_v1), *Revised and Resubmit, Political Psychology*
 
 - Ruhe, Constantin; **Suntay, Osman**; Castelli, Leonard; Rossteutscher, Sigrid; and Traunmüller, Richard. [Extremist Violence, Discrimination, and Religious Identification](https://osf.io/preprints/osf/b6yzv_v2), *Under Review*
 
-- **Suntay, Osman** and Ruhe, Constantin. [How Education Moderates the Impact of Discrimination on Religious Identification: Evidence from Turkish Immigrants in Germany](https://osf.io/preprints/osf/dwub3_v1), *Under Review*
+
 
 ---
 
